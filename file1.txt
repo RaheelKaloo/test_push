@@ -1,2 +1,4 @@
  new commit to add
 add line2 
+changing file1 in feature1
+add new line in file 1  feature1
