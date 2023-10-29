@@ -2,3 +2,4 @@
 add line2 
 changing file1 in feature1
 add new line in file 1  feature1
+changing 2  file1 in feature1
