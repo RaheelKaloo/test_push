@@ -2,6 +2,11 @@
 <head> Testing Tag</head>
 <body>
 	<p> this class we practce tagging</p>
+	<ol>
+		<il> log show </il>
+		<il> log oneline </il>
+
+	</ol>
 
 </body>
 </html>
