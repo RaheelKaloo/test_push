@@ -1,2 +1,3 @@
 second file
 add new line
+add new feature in file2
