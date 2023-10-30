@@ -4,3 +4,4 @@ changing 1  file1 in main
 changing 1  file1 in feature2
 changing 2 file1 in feature2
 changing 2 file1 in feature2
+added another 3 lines
